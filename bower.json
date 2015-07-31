@@ -1,0 +1,25 @@
+{
+  "name": "github.io",
+  "version": "0.0.1",
+  "homepage": "https://github.com/batoure/batoure.github.io",
+  "authors": [
+    "Batoure <batoure@digitalminion.com>"
+  ],
+  "description": "Batoure's Home Page on Github",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "resolutions": {
+    "angular": "~1.4.3"
+  },
+  "dependencies": {
+    "angular-md": "~1.0.0",
+    "angular": "~1.4.3"
+  }
+}
